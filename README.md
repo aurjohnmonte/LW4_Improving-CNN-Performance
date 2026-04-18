@@ -10,3 +10,17 @@ Performance Optimization | Improving CNN Performance Using Regularization, Fine-
 
 Advanced Evaluation</h3>
 <p>https://colab.research.google.com/drive/1o0AilPAWzaSBxLBi-m0NcEtiJUTZFgtM#scrollTo=bwGGGpfOaCXU&line=5&uniqifier=1</p>
+
+<h1>Activity 1: Evaluation Metrics + Visualization</h1>
+<h2>Precision, Recall, F1-Score</h2>
+<img width="494" height="518" alt="image" src="https://github.com/user-attachments/assets/b6ef5dfb-a277-4621-b1fe-c0c08e6fd577" />
+<h2>Confusion Matrix</h2>
+<img width="842" height="731" alt="image" src="https://github.com/user-attachments/assets/63a6500d-b52b-46c8-90e7-4f69cf19ba96" />
+<h2>Plot ROC Curve</h2>
+<img width="787" height="647" alt="image" src="https://github.com/user-attachments/assets/caec393f-6c17-48f7-8b58-ecf1554f3e7c" />
+<h2>Precision, Recall, F1 Visualization</h2>
+<img width="1215" height="609" alt="image" src="https://github.com/user-attachments/assets/3f6eab7f-91f9-43f4-acd0-fd3e17449984" />
+
+
+
+
